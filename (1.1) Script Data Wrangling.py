@@ -11,11 +11,11 @@
 
 #%% Instalando os pacotes
 
-!pip install pandas
-!pip install numpy
-!pip install matplotlib
-!pip install seaborn
-!pip install xlrd
+# !pip install pandas
+# !pip install numpy
+# !pip install matplotlib
+# !pip install seaborn
+# !pip install xlrd
 
 #%% Importando os pacotes
 
